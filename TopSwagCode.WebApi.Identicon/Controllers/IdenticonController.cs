@@ -23,6 +23,5 @@ namespace TopSwagCode.WebApi.Identicon.Controllers
                 return File(ms.ToArray(), "image/png");
             }
         }
-
     }
 }
