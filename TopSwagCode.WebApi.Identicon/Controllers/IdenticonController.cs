@@ -7,7 +7,7 @@ namespace TopSwagCode.WebApi.Identicon.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class IdenIconController : Controller
+    public class IdenticonController : Controller
     {
         // GET api/values
         [HttpGet]
