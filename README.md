@@ -1,4 +1,4 @@
-# TopSwagCode.WebApi.Identicon
+# AspNetCore.Identicon
 
 To get your own Identicon service. Add "Jdenticon.AspNetCore" nuget package to your project and create a api like the one in this project. The code can also be seen below here:
 
